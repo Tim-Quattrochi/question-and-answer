@@ -17,7 +17,7 @@ def ask_questions(questions):
 
 # Gets the last word of the question, replaces the question mark with an empty string
 def last_word(sentence):
-    return sentence.split()[-1].replace('?', '')
+    return sentence.split()[-1].replace('?:', '')
 
 
 ask_questions(questions)
