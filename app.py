@@ -1,7 +1,7 @@
 
 
-questions = ["What is your favorite color? ",
-             "What is your favorite food? ", "What is your favorite animal? "]
+questions = ["What is your favorite color?:\n",
+             "What is your favorite food?:\n", "What is your favorite animal?:\n"]
 
 answers = {}
 
